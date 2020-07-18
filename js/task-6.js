@@ -1,5 +1,5 @@
 function main() {
-    let input = prompt("task-6\nВведіть число");
+    let input = prompt("task-6\n\Введіть число");
     let total = 0;
   
     while (input !== null) {
